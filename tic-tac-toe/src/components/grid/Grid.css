@@ -5,6 +5,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    font-size: 50px;
 }
 
 .turn-hightlight {
@@ -12,4 +13,10 @@
 }
 .reset{
     color: white;
+    background-color: green;
+    border: 1px solid gray;
+    box-shadow: 2px;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
 }
