@@ -1,0 +1,80 @@
+*{
+  margin: 0px;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 350px;
+  max-width: 100vw;
+  height: 10vh;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+.brand_logo{
+  height: 3rem;
+}
+ul{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+main{
+  font-family: "Poppins", sans-serif;
+  margin : 0px;
+  display: flex;
+  max-width: 100vw;
+  max-height: 80vh;
+}
+.leftDiv{
+  margin-left: 10vw;
+  max-height: 80vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+.tagline{
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 100%;
+  height: 200px;
+  width: 40vw;
+}
+.rightDiv{
+  margin-right: 10vw;
+  max-height: 80vh;
+  width: 50vw;
+  padding-top : 25px ;
+  padding-bottom: 25px;
+}
+.desc{
+  margin : 10px 0px 10px 0 ;
+  font-size: 14px;
+}
+.brandshop{
+  margin : 10px 0px 0px 0 ; 
+  font-size: 12px;
+}
+.sectionbutton{
+  margin-top: 10px 0 10px 0;
+}
+.shoppingSites img{
+  margin: 0 10px 0 0;
+}
+.shoe{
+  height: 70vh;
+  width: 45vw;
+  margin: 10px 30px 10px 0px;
+}
+footer{
+  margin-top: 40px;
+  background-color: grey;
+  text-align: center;
+  font-size: 14px;
+  color: aquamarine;
+}
